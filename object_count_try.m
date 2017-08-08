@@ -1,4 +1,4 @@
-% Read in image, convert to black and white - Link comes from your image posted here
+
 I = imread('af91.png');
 %imshow(I);
 %imBW = im2bw(im, 0.3); %// Specify manual threshold of 0.3
