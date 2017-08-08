@@ -1,4 +1,4 @@
-#http://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Non-local_Means_Denoising_Algorithm_Noise_Reduction.php
+
 
 import numpy as np
 import cv2
